@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#EB445A</color>
+    <color name="editText">#686767</color>
+    <color name="textBt">#2196F3</color>
+    <color name="transparent">#00000000</color>
+    <color name="headerRegister">#FFC107</color>
+    <color name="red">#EB7067</color>
+
+
+
+</resources>

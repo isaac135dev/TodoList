@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "515546051898",
+    "project_id": "uitodolist",
+    "storage_bucket": "uitodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515546051898:android:5bc374cada95023bd08c03",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515546051898-m1v1qk4h79tt1l61u5vh8g6nuf0c2h63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3C4MnFjlTc8antY-enzfaggEdsq6Osg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515546051898-m1v1qk4h79tt1l61u5vh8g6nuf0c2h63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515546051898-0pp422ksp4mu7ser3fc1tv899jjudfc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.isaac.CollectionsView.ToDoList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
